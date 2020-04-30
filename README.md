@@ -40,11 +40,6 @@ Zdir是一款使用PHP开发的目录列表程序，无需数据库，体积小�
 * 演示地址：[http://soft.xiaoz.org/](http://soft.xiaoz.org/)
 * 备用演示：[https://wget.ovh/](https://wget.ovh/)
 
-### 获取捐赠版
-扫描下方二维码，捐赠大于`30元`以上可获得捐赠版，捐赠版可享受首次技术支持及去除广告，捐赠后请联系我的QQ:337003006获取。
-
-![](https://imgurl.org/upload/1712/cb349aa4a1b95997.png)
-
 ### 联系我
 * Blog: [https://www.xiaoz.me/](https://www.xiaoz.me/)
 * QQ: 337003006
