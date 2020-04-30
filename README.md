@@ -1,4 +1,4 @@
-##File List 为 zdir 的去广告和精简首页导航版本，zdir 标识丝毫未改。感谢 zdir 原作者的开发。
+## File List 为 zdir 的去广告和精简首页导航版本，zdir 标识丝毫未改。感谢 zdir 原作者的开发。
 
 # zdir
 Zdir是一款使用PHP开发的目录列表程序，无需数据库，体积小巧，功能完善。
